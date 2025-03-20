@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+  margin-top: 50px;
+}
+
+/* tiếp theo mình css cho nút bấm */
+button {
+  cursor: pointer;
+  border-radius: 5px;
+}

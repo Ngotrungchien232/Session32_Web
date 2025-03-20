@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.container {
+  padding: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 20px;
+  border: none;
+  border-radius: 5px;
+}
